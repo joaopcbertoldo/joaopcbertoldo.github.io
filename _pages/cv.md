@@ -9,6 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+
+* [CV in PDF](https://joaopcbertoldo.github.io/files/cv.en.2021-02.pdf)
+* [Reference sheet](https://joaopcbertoldo.github.io/files/reference_sheet.en.2021-02.pdf)
+* [Recommendation letter from Henry Proudhon, CNRS research director at MINES ParisTech - PSL University](https://joaopcbertoldo.github.io/files/recommendation_letter.2021-01.HP.pdf)
+* [Recommendation letter from Etienne Decencière, research director at MINES ParisTech - PSL University](https://joaopcbertoldo.github.io/files/recommendation_letter.2020-01.ED.pdf)
+* [Recommendation letter from Stephen Kappel, lead data scientist at Datadog](https://joaopcbertoldo.github.io/files/recommendation_letter.2019-09.SK.pdf)
+
 Education
 ======
 * MSc in Artificial Intelligence, Systems, Data ([IASD](https://www.lamsade.dauphine.fr/wp/iasd/en/)), [Paris-Dauphine](https://dauphine.psl.eu/en/) – [PSL University](https://psl.eu/en)
@@ -32,23 +39,20 @@ Education
 Work experience
 ======
 
-* [MINES ParisTech](http://mines-paristech.fr/) – [PSL University](https://psl.eu/en), Research Engineer
-  * since March 2021
+* [MINES ParisTech](http://mines-paristech.fr/) – [PSL University](https://psl.eu/en)
+  * Research Engineer, since March 2021
+  * Research Intern, Sep. 2020 - Feb. 2021 (5 months)
+  * Évry, Paris Metropolitan Area, France
   * [Chair of research Bigméca](https://bigmeca.minesparis.psl.eu/)
   * Works on 3D tomography image segmentation with convolutional neural networks
   * Stack: TensorFlow, Keras, ImageJ, Avizo, Python, Jupyter Lab
   * [Link to the GitHub repository](https://github.com/joaopcbertoldo/tomo2seg)
 
-* [MINES ParisTech](http://mines-paristech.fr/) – [PSL University](https://psl.eu/en), Research Intern
-  * Sep. 2020 - Feb. 2021 (5 months)
-  * Évry, Paris Metropolitan Area, France
-  * [Chair of research Bigméca](https://bigmeca.minesparis.psl.eu/)
-  * Stack: Python, Streamlit, Lime (Ribeiro et al., 2016), Anchor (Ribeiro et al., 2018), SHAP (Lundberg et al., 2017).
-
 * [Mindsay](https://www.mindsay.com/), R&D Intern
   * Apr. 2020 - Sep. 2020 (5 months)
   * Paris, France
   * Evaluated explainability methods applied to NLP text classification models maintained by non-experts.
+  * Stack: Python, Streamlit, Lime (Ribeiro et al., 2016), Anchor (Ribeiro et al., 2018), SHAP (Lundberg et al., 2017).
 
 * [Datadog](https://www.datadoghq.com/), Data Scientist Intern
   * Feb. 2019 - Sep. 2019 (7 months)
