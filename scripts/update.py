@@ -70,8 +70,12 @@ def get_files_default_mapping() -> dict:
     return dict(
         cv_one_page=File(
             origin="../cv/cv-one-page.en.pdf",
-            destination="./files/cv.en.pdf",
-        )
+            destination="./files/cv-one-page.en.pdf",
+        ),
+        cv_academic=File(
+            origin="../cv/cv-academic.en.pdf",
+            destination="./files/cv-academic.en.pdf",
+        ),
     )
 
 
