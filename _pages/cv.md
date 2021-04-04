@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-[CV in PDF](https://joaopcbertoldo.github.io/files/cv.en.pdf)
+[PDF version](https://joaopcbertoldo.github.io/files/cv.en.pdf)
+
+[PDF one-page version](https://joaopcbertoldo.github.io/files/cv-one-page.en.pdf)
 
 [Reference sheet](https://joaopcbertoldo.github.io/files/reference-sheet.en.pdf) 
 
@@ -35,19 +37,17 @@ Education
 
 *Subjects: Software Engineering, Databases, Probability, Statistics, Operations Research*
 
-* MSc in Executive Engineering (minor in Data Science), [MINES ParisTech](http://mines-paristech.fr/) – [PSL University](https://psl.eu/en)
-  * Paris, France
-  * 2017-2020
-  * Double degree with University of São Paulo.
-  * Double degree with Paris-Dauphine University.
-  * Subjects: Software Engineering, Databases, Machine Learning, Probability Theory, Statistics, Operations Research.
-* MSc in Mechatronics Engineering, [University of São Paulo](https://www5.usp.br/)
-  * Brazil
-  * 2013-2020
-  * Student's Union team lead. 
-  * Developed an extension project for high school education.
-  * 1-year scholarship for an exchange program at the University of Valenciennes, France.
-  * Teaching assistant (6 mos.): conducted workshops on numerical analysis using MATLAB ([github repository](https://github.com/joaopcbertoldo/NumericalAnalysisWorkshops)).
+## Mechatronics Engineering (1-year academic exchange) 
+#### ENSIAME - INSA Hauts-de-France 
+#### 2015 – 2016 | Valenciennes, France
+
+*1-year scholarship for an international academic exchange programme*
+
+## Mechatronics Engineering (5-year degree) 
+#### University of São Paulo (USP)
+#### 2013 – 2015, 2016 – 2017 | São Carlos, Brazil
+
+---
 
 Work experience
 ======
