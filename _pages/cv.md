@@ -113,6 +113,44 @@ Applied it during an experiment at the [Soleil Synchrotron](https://www.synchrot
 
 🔗 [Link to tomo2seg on Github](https://github.com/joaopcbertoldo/tomo2seg)
 
+### pymdr
+#### 📅 2020 (1 mo.)
+
+Python implementation of *Mining Data Records* (Liu et al., 2003)
+
+🔗 [Link to pymdr on Github](https://github.com/joaopcbertoldo/pymdr)
+
+### Correlations
+#### 📅 2019 (7 mos.)
+
+Contributed to build *Correlations*: an automated debug tool for complex infrastructures capable of finding correlated accidents in time series.
+
+🔗 [Link to Correlations on Datadog's website](https://docs.datadoghq.com/dashboards/correlations/)
+
+### Bivrost
+#### 📅 2018 (8 mos.)
+
+Maintained and implemented new features in Bivrost: a web application for high-resolution time series visualization used for real-time drilling systems monitoring.
+
+🔗 [Link to Bivrost's page on Kelda's website](https://www.kelda.no/products/bivrost-cloud-portal/)
+
+### Sunlight simulator
+#### 📅 2017 -- 2018 (9 mos.)
+
+Lead a project for 6 mos. to build a robotic cable-controlled sunlight physical emulator.
+
+Developed a 3D motion digital twin in Python.
+
+🔗 [Link to *minlight* on GitHub](https://github.com/joaopcbertoldo/minlight)
+
+### Smart coffee machine
+#### 📅 2016 (4 mos.)
+
+Designed a coffee machine controlled over the internet.
+
+Developed a web server in .NET (C\#) and an Arduino controller (C++).
+
+🔗 [Link to *mkafeina* on GitHub](https://github.com/joaopcbertoldo/Mkafeina)
 
 ---
 
