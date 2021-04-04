@@ -27,9 +27,9 @@ Education
 
 *Subjects: Machine Learning, Deep Learning, Optimization, Image Analysis*
 
-### MS in Executive Engineering | Minor: Data Science 
-#### [MINES ParisTech](https://www.minesparis.psl.eu/) - [PSL University](https://psl.eu/en)
-#### 2017 – 2020 | Paris, France
+## MS in Executive Engineering | Minor: Data Science 
+### [MINES ParisTech](https://www.minesparis.psl.eu/) - [PSL University](https://psl.eu/en)
+### 2017 – 2020 | Paris, France
 
 *Subjects: Software Engineering, Databases, Probability, Statistics, Operations Research*
 
