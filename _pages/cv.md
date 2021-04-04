@@ -26,13 +26,12 @@ Education
 ======
 
 ### [Paris-Dauphine](https://dauphine.psl.eu/en/) – [PSL University](https://psl.eu/en)
-#### MSc in Artificial Intelligence, Systems, Data ([IASD](https://www.lamsade.dauphine.fr/wp/iasd/en/))
+### MSc in Artificial Intelligence, Systems, Data ([IASD](https://www.lamsade.dauphine.fr/wp/iasd/en/))
 #### 2019-202 | Paris, France
 
 Subjects: Machine Learning, Deep Learning, Optimization, Image Analysis
 
-### [MINES ParisTech](https://www.minesparis.psl.eu/) - [PSL University](https://psl.eu/en)
-#### MS in Executive Engineering | Minor: Data Science 
+### [MINES ParisTech](https://www.minesparis.psl.eu/) - [PSL University](https://psl.eu/en) \n MS in Executive Engineering | Minor: Data Science 
 #### 2017 – 2020 | Paris, France
 
 Subjects: Software Engineering, Databases, Probability, Statistics, Operations Research
