@@ -27,17 +27,17 @@ Education
 
 ### [Paris-Dauphine](https://dauphine.psl.eu/en/) – [PSL University](https://psl.eu/en) <br/> MSc in Artificial Intelligence, Systems, Data ([IASD](https://www.lamsade.dauphine.fr/wp/iasd/en/))
 
-📅 2019-202 📍 Paris, France
+#### 📅 2019-202 📍 Paris, France
 
 Subjects: Machine Learning, Deep Learning, Optimization, Image Analysis
 
 ### [MINES ParisTech](https://www.minesparis.psl.eu/) - [PSL University](https://psl.eu/en) <br/> MS in Executive Engineering | Minor: Data Science 
-#### 📅 2017 – 2020 📍 Paris, France
+##### 📅 2017 – 2020 📍 Paris, France
 
 Subjects: Software Engineering, Databases, Probability, Statistics, Operations Research
 
 ### ENSIAME - INSA Hauts-de-France <br/> Mechatronics Engineering (1-year academic exchange) 
-#### 📅 2015 – 2016 📍 Valenciennes, France
+###### 📅 2015 – 2016 📍 Valenciennes, France
 
 1-year scholarship for an international academic exchange programme
 
