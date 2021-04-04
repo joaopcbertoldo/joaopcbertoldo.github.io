@@ -1,116 +1,219 @@
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-{% include base_path %}
-
-
-* [CV in PDF](https://joaopcbertoldo.github.io/files/cv.en.pdf)
-* [Reference sheet](https://joaopcbertoldo.github.io/files/reference-sheet.en.pdf)
-* [Recommendation letter from Henry Proudhon, CNRS research director at MINES ParisTech - PSL University](https://joaopcbertoldo.github.io/files/recommendation_letter.2021-01.HP.pdf)
-* [Recommendation letter from Etienne Decencière, research director at MINES ParisTech - PSL University](https://joaopcbertoldo.github.io/files/recommendation_letter.2020-01.ED.pdf)
-* [Recommendation letter from Stephen Kappel, lead data scientist at Datadog](https://joaopcbertoldo.github.io/files/recommendation_letter.2019-09.SK.pdf)
-
 Education
-======
-* MSc in Artificial Intelligence, Systems, Data ([IASD](https://www.lamsade.dauphine.fr/wp/iasd/en/)), [Paris-Dauphine](https://dauphine.psl.eu/en/) – [PSL University](https://psl.eu/en)
-  * Paris, France
-  * 2019-2020
-  * Subjects: Optimization, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing (NLP), Knowledge Graphs, Reinforcement Learning.
-* MSc in Executive Engineering (minor in Data Science), [MINES ParisTech](http://mines-paristech.fr/) – [PSL University](https://psl.eu/en)
-  * Paris, France
-  * 2017-2020
-  * Double degree with University of São Paulo.
-  * Double degree with Paris-Dauphine University.
-  * Subjects: Software Engineering, Databases, Machine Learning, Probability Theory, Statistics, Operations Research.
-* MSc in Mechatronics Engineering, [University of São Paulo](https://www5.usp.br/)
-  * Brazil
-  * 2013-2020
-  * Student's Union team lead. 
-  * Developed an extension project for high school education.
-  * 1-year scholarship for an exchange program at the University of Valenciennes, France.
-  * Teaching assistant (6 mos.): conducted workshops on numerical analysis using MATLAB ([github repository](https://github.com/joaopcbertoldo/NumericalAnalysisWorkshops)).
+=========
 
-Work experience
-======
+MSc in Artificial Intelligence, Systems, Data (
+[IASD](https://www.lamsade.dauphine.fr/wp/iasd/en/) ) 2019 – 2020
+Paris-Dauphine – PSL University Paris, France
 
-* [MINES ParisTech](http://mines-paristech.fr/) – [PSL University](https://psl.eu/en)
-  * Research Engineer, since March 2021
-  * Research Intern, Sep. 2020 - Feb. 2021 (5 months)
-  * Évry, Paris Metropolitan Area, France
-  * [Chair of research Bigméca](https://bigmeca.minesparis.psl.eu/)
-  * Works on 3D tomography image segmentation with convolutional neural networks
-  * Stack: TensorFlow, Keras, ImageJ, Avizo, Python, Jupyter Lab
-  * [Link to the GitHub repository](https://github.com/joaopcbertoldo/tomo2seg)
+Subjects: Machine Learning, Deep Learning, Optimization, Image Analysis
 
-* [Mindsay](https://www.mindsay.com/), R&D Intern
-  * Apr. 2020 - Sep. 2020 (5 months)
-  * Paris, France
-  * Evaluated explainability methods applied to NLP text classification models maintained by non-experts.
-  * Stack: Python, Streamlit, Lime (Ribeiro et al., 2016), Anchor (Ribeiro et al., 2018), SHAP (Lundberg et al., 2017).
+MS in Executive Engineering \| *Minor: Data Science* 2017 – 2020 MINES
+ParisTech- PSL University  Paris, France
 
-* [Datadog](https://www.datadoghq.com/), Data Scientist Intern
-  * Feb. 2019 - Sep. 2019 (7 months)
-  * New York, USA
-  * Analyzed and developed algorithms for time series, tag analysis, knowledge graph.
-  * Built and maintained high impact production code in python.
+Subjects: Software Engineering, Databases, Probability, Statistics,
+Operations Research
 
-* [Kelda Drilling Controls](https://www.kelda.no/), Software Engineer Intern
-  * Jun. 2018 - Feb. 2019
-  * Norway
-  * Modeled and designed a time series tool for supervised machine learning.
-  * Stack: Python, MongoDB, InfluxDB, and JavaScript (React, Redux).
+Mechatronics Engineering (1-year academic exchange) 2015 – 2016 ENSIAME
+- INSA Hauts-de-France Valenciennes, France
 
-* [Stone Co.](https://www.stone.co/) 
-  * 2017
-  * Rio de Janeiro, Brazil
-  * Data Scientist Intern (2 months)
-    * Explored transactional data to train and hyper-optimize a churn   predictor.
-  * Back-end Developer Intern (3 months)
-    * Developed a REST API in C# to access a MongoDB. Lectured about Design Patterns.
-  * Stack: PostgreSQL, Jupyter, Pandas, Scikit-Learn, .NET (C#), MongoDB.
+1-year scholarship for an international academic exchange programme
 
-  
-Skills/Languages
-======
-* English: fluent
-  * worked in English speaking companies for 1 year
-  * TOEFL 117/120 (2020)
-* French: fluent
-  * read subjects in French for 3 years
-  * worked in French organizations for 1 year
-* Portuguese: native
+Mechatronics Engineering (5-year degree) 2013 – 2015,   2016 – 2017
+University of São Paulo (USP)  São Carlos, Brazil
+
+Professional Experience
+=======================
+
+Research Engineer since Mar. 2021 The European Synchrotron Radiation
+Facility (ESRF)  Grenoble, France MINES ParisTech- PSL University Paris,
+France
+
+Working on X-ray diffraction tomography (DCT) semantic segmentation.
+
+Research Intern 2020 – 2021 (6 mos.) MINES ParisTech- PSL University 
+Paris, France
+
+Worked on semantic segmentation neural networks (2D and 3D U-Net)
+applied to X-ray tomography.
+
+Presented results at the [44th edition of the Journée ISS
+France](http://www.cmm.mines-paristech.fr/~figliuzzi/iss.html).
+
+Lectured about U-Nets in a week-course ([CVML
+2021](https://bigmeca.minesparis.psl.eu/cvml-2021/)) at the PSL
+University.
+
+Research Intern 2020 (5 mos.) Mindsay Paris, France
+
+Evaluated explainability methods (LIME, SHAP, Anchors) applied to
+layperson-maintained Natural Language Processing (NLP) classification
+models.
+
+Data Scientist Intern 2019 (7 mos.) Datadog New York, USA
+
+Developed algorithms for time series and tag analysis, and contributed
+to a knowledge graph project.
+
+Maintained high-impact production Python codebase and optimized an
+automated test pipeline.
+
+Software Engineer Intern 2018 – 2019 (8 mos.) Kelda Drilling Controls
+Porsgrunn, Norway
+
+Designed a web application for time series supervised annotation.
+
+Backend Developer / Data Scientist Intern 2017 – 2018 (3 mos. / 2 mos.)
+Stone Co.  Rio de Janeiro, Brazil
+
+Developed a .NET web Rest API for a MongoDB and lectured about Design
+Patterns.
+
+Explored transactional data to predict churn risk with decision
+trees-based methods.
+
+Teaching assistant (part-time) 2015 (6 mos.) University of São Paulo
+(USP)  São Carlos, Brazil
+
+Elaborated and conducted workshops on numerical analysis using MATLAB.
+
+Projects
+========
+
+  tomo2seg
+(<a href="#itm:bigmecaintern" data-reference-type="ref" data-reference="itm:bigmecaintern">[itm:bigmecaintern]</a>,<a href="#itm:bigmecacdd" data-reference-type="ref" data-reference="itm:bigmecacdd">[itm:bigmecacdd]</a>)
+since Sep. 2020
+
+Developed an X-ray tomography (XCT) semantic segmentation tool using
+U-Nets.
+
+The [data](https://doi.org/10.5281/zenodo.4587827) and the
+[models](https://doi.org/10.5281/zenodo.4601560) are publicly available
+on Zenodo. A
+[tutorial](https://github.com/joaopcbertoldo/gfpa66-volumes) is
+available on GitHub(WIP).
+
+Applied it during an experiment at the [Soleil
+Synchrotron](https://www.synchrotron-soleil.fr/en) , France.
+
+  [Link to tomo2seg on
+GitHub](https://github.com/joaopcbertoldo/tomo2seg)
+
+  pymdr
+(<a href="#itm:iasd" data-reference-type="ref" data-reference="itm:iasd">[itm:iasd]</a>)
+2020 (1 mo.)
+
+  Correlations
+(<a href="#itm:datadog" data-reference-type="ref" data-reference="itm:datadog">[itm:datadog]</a>)
+2019 (7 mos.)
+
+Contributed to build *Correlations*: an automated debug tool for complex
+infrastructures capable of finding correlated accidents in time series.
+
+  [Link to Correlations on Datadog’s
+website](https://docs.datadoghq.com/dashboards/correlations/)
+
+  Bivrost
+(<a href="#itm:kelda" data-reference-type="ref" data-reference="itm:kelda">[itm:kelda]</a>)
+2018 (8 mos.)
+
+Maintained and implemented new features in Bivrost: a web application
+for high-resolution time series visualization used for real-time
+drilling systems monitoring.
+
+  [Link to Bivrost’s page on Kelda’s
+website](https://www.kelda.no/products/bivrost-cloud-portal/)
+
+  Sunlight simulator
+(<a href="#itm:mines" data-reference-type="ref" data-reference="itm:mines">[itm:mines]</a>)
+2017 – 2018 (9 mos.)
+
+Lead a project for 6 mos. to build a robotic cable-controlled sunlight
+physical emulator.
+
+Developed a 3D motion digital twin in Python.
+
+  [Link to *minlight* on
+GitHub](https://github.com/joaopcbertoldo/minlight)
+
+  Smart coffee machine
+(<a href="#itm:usp" data-reference-type="ref" data-reference="itm:usp">[itm:usp]</a>)
+2016 (4 mos.)
+
+Designed a coffee machine controlled over the internet.
+
+Developed a web server in .NET (C\#) and an Arduino controller (C++).
+
+  [Link to mkafeina on
+GitHub](https://github.com/joaopcbertoldo/Mkafeina)
 
 Publications
+============
+
+Skills
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+
+ 
+
+ 
+
+Obtained TOEFL 117/120 (2020) and worked in English-speaking companies
+for more than 1 year.
+
+ 
+
+Read subjects in French for 3 years and worked in French-organizations
+for 1 year.
+
+ 
+
+ 
+
+  Programming
+
+  PythonFluent
+
+*Data processing/viz.* Numpy, Scipy, Pandas, IPython, Matplotlib,
+Seaborn.
+
+*Machine/Deep learning* Keras, TensorFlow, Scikit-learn.
+
+*Prototyping* Streamlit, Jupyter Lab/Notebook.
+
+*Miscellaneous* Anaconda, Virtual Environments, nose, unittests.
+
+  Other programming languages
+
+MATLAB, JavaScript (React, Redux), C/C++ (basics), Java (basics).
+
+  Databases
+
+PostgresSQL, MongoDB, InfluxDB.
+
+  Computer skills (others)
+
+ 
+
+ 
+
+ 
+
+ 
+
+  LaTeX Fluent. Wrote [Master’s internship
+report](https://joaopcbertoldo.github.io/files/mindsay.report.pdf) in
+LaTeX.
+
+  Google Suite (Docs, Slides, Sheets) Fluent. Wrote [Master’s
+defense](https://joaopcbertoldo.github.io/files/mindsay.soutenance.pdf)
+presentation with Google Slides.
+
+ 
+
 Interests
-======
-* Travel & international environments - I have been in 18 countries
-* Catacombs of Paris 
-* Skydive
-* Podcasts (especially about politics)
-* Youtube channels: 
-  * [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
-  * [Vox](https://www.youtube.com/channel/UCLXo7UDZvByw2ixzpQCufnA)
-  * [VICE](https://www.youtube.com/channel/UCZaT_X_mc0BI-djXOlfhqWQ)
-  * [WIRED](https://www.youtube.com/channel/UCftwRNsjfRo08xYE31tkiyw)
-  * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
-  * [The Economist](https://www.youtube.com/channel/UC0p5jTq6Xx_DosDFxVXnWaQ)
-  * [Porta dos Fundos](https://www.youtube.com/channel/UCEWHPFNilsT0IfQfutVzsag)
-  * [Choque de Cultura](https://www.youtube.com/watch?v=4u1w1UnqI0Y&list=PLA2Gd9vTv5MWbT1N-RVoTO7MHkfjKkYVV&ab_channel=TVQuase)
-  * [Barbixas](https://www.youtube.com/channel/UCZbgt7KIEF_755Xm14JpkCQ)
+=========
+
+Talks
+=====
+
+Teaching
+========
