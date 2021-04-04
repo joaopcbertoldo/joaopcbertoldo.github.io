@@ -3,7 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
+redirect_from####:
   - /resume
 ---
 
@@ -70,15 +70,6 @@ Evaluated explainability methods (LIME, SHAP, Anchors) applied to
 layperson-maintained Natural Language Processing (NLP) classification
 models.
 
-
-* [MINES ParisTech](http://mines-paristech.fr/) – [PSL University](https://psl.eu/en)
-  * Research Engineer, since March 2021
-  * Research Intern, Sep. 2020 - Feb. 2021 (5 months)
-  * Évry, Paris Metropolitan Area, France
-  * [Chair of research Bigméca](https://bigmeca.minesparis.psl.eu/)
-  * Works on 3D tomography image segmentation with convolutional neural networks
-  * Stack: TensorFlow, Keras, ImageJ, Avizo, Python, Jupyter Lab
-  * [Link to the GitHub repository](https://github.com/joaopcbertoldo/tomo2seg)
 
 * [Mindsay](https://www.mindsay.com/), R&D Intern
   * Apr. 2020 - Sep. 2020 (5 months)
