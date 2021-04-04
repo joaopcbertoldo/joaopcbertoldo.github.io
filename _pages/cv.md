@@ -73,11 +73,6 @@ Lectured about U-Nets in a week-course ([CVML 2021]({https://bigmeca.minesparis.
 
 Evaluated explainability methods -- LIME (Ribeiro et al., 2016), SHAP (Ribeiro et al., 2018), Anchors (Lundberg et al., 2017) -- applied to layperson-maintained Natural Language Processing (NLP) classification models.
 
-### [University of São Paulo (USP)](https://www5.usp.br/) <br/> Teaching assistant (part-time)
-#### 📅 2015 (6 mos.) | 📍 São Carlos, Brazil
-
-Elaborated and conducted workshops on numerical analysis using MATLAB.
-
 ---
 
 Work experience
@@ -118,6 +113,17 @@ Applied it during an experiment at the [Soleil Synchrotron](https://www.synchrot
 
 :link: [Link to tomo2seg on Github](https://github.com/joaopcbertoldo/tomo2seg)
 
+
+---
+
+Teaching
+======
+
+### [University of São Paulo (USP)](https://www5.usp.br/) <br/> Teaching assistant (part-time)
+#### 📅 2015 (6 mos.) | 📍 São Carlos, Brazil
+
+Elaborated and conducted workshops on numerical analysis using MATLAB.
+
 ---
 
 Skills/Languages
@@ -144,9 +150,8 @@ Talks
   
 Interests
 ======
-* Travel & international environments - I have been in 18 countries
-* Catacombs of Paris 
-* Skydive
+* Travel & international environments - have been in 18 countries.
+* [Skydive](https://aspu.org/)
 * Podcasts (especially about politics)
 * Youtube channels: 
   * [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
