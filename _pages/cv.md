@@ -32,16 +32,19 @@ Education
 Subjects: Machine Learning, Deep Learning, Optimization, Image Analysis
 
 ### [MINES ParisTech](https://www.minesparis.psl.eu/) - [PSL University](https://psl.eu/en) <br/> MS in Executive Engineering | Minor: Data Science 
-##### 📅 2017 – 2020 📍 Paris, France
+
+#### 📅 2017 – 2020 📍 Paris, France
 
 Subjects: Software Engineering, Databases, Probability, Statistics, Operations Research
 
 ### ENSIAME - INSA Hauts-de-France <br/> Mechatronics Engineering (1-year academic exchange) 
-###### 📅 2015 – 2016 📍 Valenciennes, France
+
+#### 📅 2015 – 2016 📍 Valenciennes, France
 
 1-year scholarship for an international academic exchange programme
 
 ### University of São Paulo (USP) <br/> Mechatronics Engineering (5-year degree) 
+
 #### 📅 2013 – 2015, 2016 – 2017 📍 São Carlos, Brazil
 
 ---
@@ -50,12 +53,13 @@ Research
 ========
 
 ### [The European Synchrotron Radiation Facility (ESRF)](https://www.esrf.fr/) <br/> [MINES ParisTech](https://www.minesparis.psl.eu/) - [PSL University](https://psl.eu/en) <br/> Research Engineer 
-#### since Mar. 2021 | Grenoble, France / Paris, France
+
+#### 📅 since Mar. 2021 | 📍 Grenoble, France / Paris, France
 
 Working on X-ray diffraction tomography (DCT) semantic segmentation.
 
 ### [MINES ParisTech](https://www.minesparis.psl.eu/) - [PSL University](https://psl.eu/en) <br/> Research Intern
-#### 2020 – 2021 (6 mos.) | Paris, France
+#### 📅 2020 – 2021 (6 mos.) | 📍 Paris, France
 
 Worked on semantic segmentation neural networks (2D and 3D U-Net)
 applied to X-ray tomography.
@@ -65,46 +69,41 @@ Presented results at the [44th edition of the Journée ISS France](http://www.cm
 Lectured about U-Nets in a week-course ([CVML 2021]({https://bigmeca.minesparis.psl.eu/cvml-2021/)) at the PSL University.
 
 ### Mindsay <br/> Research Intern 
-#### 2020 (5 mos.) | Paris, France
+#### 📅 2020 (5 mos.) | 📍 Paris, France
 
-Evaluated explainability methods (LIME, SHAP, Anchors) applied to
-layperson-maintained Natural Language Processing (NLP) classification
-models.
+Evaluated explainability methods -- LIME (Ribeiro et al., 2016), SHAP (Ribeiro et al., 2018), Anchors (Lundberg et al., 2017) -- applied to layperson-maintained Natural Language Processing (NLP) classification models.
 
+### University of São Paulo (USP) <br/> Teaching assistant (part-time)
+#### 📅 2015 (6 mos.) | 📍 São Carlos, Brazil
 
-* [Mindsay](https://www.mindsay.com/), R&D Intern
-  * Apr. 2020 - Sep. 2020 (5 months)
-  * Paris, France
-  * Evaluated explainability methods applied to NLP text classification models maintained by non-experts.
-  * Stack: Python, Streamlit, Lime (Ribeiro et al., 2016), Anchor (Ribeiro et al., 2018), SHAP (Lundberg et al., 2017).
+Elaborated and conducted workshops on numerical analysis using MATLAB.
 
 ---
 
 Work experience
 ======
 
-* [Datadog](https://www.datadoghq.com/), Data Scientist Intern
-  * Feb. 2019 - Sep. 2019 (7 months)
-  * New York, USA
-  * Analyzed and developed algorithms for time series, tag analysis, knowledge graph.
-  * Built and maintained high impact production code in python.
+### [Datadog](https://www.datadoghq.com/) <br/> Data Scientist Intern
+#### 📅 2019 (7 mos.) | 📍 New York, USA
 
-* [Kelda Drilling Controls](https://www.kelda.no/), Software Engineer Intern
-  * Jun. 2018 - Feb. 2019
-  * Norway
-  * Modeled and designed a time series tool for supervised machine learning.
-  * Stack: Python, MongoDB, InfluxDB, and JavaScript (React, Redux).
+Developed algorithms for time series and tag analysis, and contributed to a knowledge graph project.
 
-* [Stone Co.](https://www.stone.co/) 
-  * 2017
-  * Rio de Janeiro, Brazil
-  * Data Scientist Intern (2 months)
-    * Explored transactional data to train and hyper-optimize a churn   predictor.
-  * Back-end Developer Intern (3 months)
-    * Developed a REST API in C# to access a MongoDB. Lectured about Design Patterns.
-  * Stack: PostgreSQL, Jupyter, Pandas, Scikit-Learn, .NET (C#), MongoDB.
+Maintained high-impact production Python codebase and optimized an automated test pipeline.
 
-  
+### [Kelda Drilling Controls](https://www.kelda.no/) <br/> Software Engineer Intern
+#### 📅 2018 -- 2019 (8 mos.) | 📍 Porsgrunn, Norway
+
+Designed a web application for time series supervised annotation.
+
+### [Stone Co.](https://www.stone.co/) <br/> Backend Developer / Data Scientist Intern
+#### 📅 2017 -- 2018 (3 mos. / 2 mos.) | 📍 Rio de Janeiro, Brazil
+
+Developed a .NET web Rest API for a MongoDB and lectured about Design Patterns.
+
+Explored transactional data to predict churn risk with decision trees-based methods.
+
+---
+
 Skills/Languages
 ======
 * English: fluent
