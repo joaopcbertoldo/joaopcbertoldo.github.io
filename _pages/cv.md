@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-[CV in PDF](https://joaopcbertoldo.github.io/files/cv.en.pdf) | [Reference sheet](https://joaopcbertoldo.github.io/files/reference-sheet.en.pdf) 
+[CV in PDF](https://joaopcbertoldo.github.io/files/cv.en.pdf)
+
+[Reference sheet](https://joaopcbertoldo.github.io/files/reference-sheet.en.pdf) 
 
 Recommendation letters: 
 * [Henry Proudhon, CNRS research director](https://joaopcbertoldo.github.io/files/recommendation_letter.2021-01.HP.pdf)
@@ -21,15 +23,15 @@ Recommendation letters:
 Education
 ======
 
-### MSc in Artificial Intelligence, Systems, Data ([IASD](https://www.lamsade.dauphine.fr/wp/iasd/en/))
+## MSc in Artificial Intelligence, Systems, Data ([IASD](https://www.lamsade.dauphine.fr/wp/iasd/en/))
 #### [Paris-Dauphine](https://dauphine.psl.eu/en/) – [PSL University](https://psl.eu/en)
 #### 2019-202 | Paris, France
 
 *Subjects: Machine Learning, Deep Learning, Optimization, Image Analysis*
 
 ## MS in Executive Engineering | Minor: Data Science 
-### [MINES ParisTech](https://www.minesparis.psl.eu/) - [PSL University](https://psl.eu/en)
-### 2017 – 2020 | Paris, France
+#### [MINES ParisTech](https://www.minesparis.psl.eu/) - [PSL University](https://psl.eu/en)
+#### 2017 – 2020 | Paris, France
 
 *Subjects: Software Engineering, Databases, Probability, Statistics, Operations Research*
 
