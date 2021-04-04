@@ -103,7 +103,7 @@ Projects
 ======
 
 ### tomo2seg
-#### :date: since Sep. 2020
+#### 📅 since Sep. 2020
 
 Developed an X-ray tomography (XCT) semantic segmentation tool using U-Nets.
 
@@ -111,7 +111,7 @@ The [data](https://doi.org/10.5281/zenodo.4587827) and the [models](https://doi.
 
 Applied it during an experiment at the [Soleil Synchrotron](https://www.synchrotron-soleil.fr/fr), France.
 
-:link: [Link to tomo2seg on Github](https://github.com/joaopcbertoldo/tomo2seg)
+🔗 [Link to tomo2seg on Github](https://github.com/joaopcbertoldo/tomo2seg)
 
 
 ---
