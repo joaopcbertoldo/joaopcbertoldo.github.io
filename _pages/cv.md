@@ -26,29 +26,29 @@ Education
 ======
 
 ### [Paris-Dauphine](https://dauphine.psl.eu/en/) – [PSL University](https://psl.eu/en) <br/> MSc in Artificial Intelligence, Systems, Data ([IASD](https://www.lamsade.dauphine.fr/wp/iasd/en/))
-#### 2019-202 | Paris, France
+
+📅 2019-202 | 📍 Paris, France
 
 Subjects: Machine Learning, Deep Learning, Optimization, Image Analysis
 
-### [MINES ParisTech](https://www.minesparis.psl.eu/) - [PSL University](https://psl.eu/en) <br/> MS in Executive Engineering | Minor: Data Science 
-#### 2017 – 2020 | Paris, France
+### [MINES ParisTech](https://www.minesparis.psl.eu/) - [PSL University](https://psl.eu/en) <br/> MS in Executive Engineering | Minor: Data Science <br/> 📅 2017 – 2020 | 📍 Paris, France
 
 Subjects: Software Engineering, Databases, Probability, Statistics, Operations Research
 
 ### ENSIAME - INSA Hauts-de-France <br/> Mechatronics Engineering (1-year academic exchange) 
-#### 2015 – 2016 | Valenciennes, France
+📅 2015 – 2016 | 📍 Valenciennes, France
 
 1-year scholarship for an international academic exchange programme
 
 ### University of São Paulo (USP) <br/> Mechatronics Engineering (5-year degree) 
-#### 2013 – 2015, 2016 – 2017 | São Carlos, Brazil
+*📅 2013 – 2015, 2016 – 2017 | 📍 São Carlos, Brazil*
 
 ---
 
 Research
 ========
 
-### [The European Synchrotron Radiation Facility (ESRF)](https://www.esrf.fr/) | [MINES ParisTech](https://www.minesparis.psl.eu/) - [PSL University](https://psl.eu/en) <br/> Research Engineer 
+### [The European Synchrotron Radiation Facility (ESRF)](https://www.esrf.fr/) <br/> [MINES ParisTech](https://www.minesparis.psl.eu/) - [PSL University](https://psl.eu/en) <br/> Research Engineer 
 #### since Mar. 2021 | Grenoble, France / Paris, France
 
 Working on X-ray diffraction tomography (DCT) semantic segmentation.
