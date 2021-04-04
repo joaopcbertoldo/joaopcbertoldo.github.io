@@ -25,32 +25,60 @@ Recommendation letters:
 Education
 ======
 
-## MSc in Artificial Intelligence, Systems, Data ([IASD](https://www.lamsade.dauphine.fr/wp/iasd/en/))
-#### [Paris-Dauphine](https://dauphine.psl.eu/en/) – [PSL University](https://psl.eu/en)
+### [Paris-Dauphine](https://dauphine.psl.eu/en/) – [PSL University](https://psl.eu/en)
+#### MSc in Artificial Intelligence, Systems, Data ([IASD](https://www.lamsade.dauphine.fr/wp/iasd/en/))
 #### 2019-202 | Paris, France
 
-*Subjects: Machine Learning, Deep Learning, Optimization, Image Analysis*
+Subjects: Machine Learning, Deep Learning, Optimization, Image Analysis
 
-## MS in Executive Engineering | Minor: Data Science 
-#### [MINES ParisTech](https://www.minesparis.psl.eu/) - [PSL University](https://psl.eu/en)
+### [MINES ParisTech](https://www.minesparis.psl.eu/) - [PSL University](https://psl.eu/en)
+#### MS in Executive Engineering | Minor: Data Science 
 #### 2017 – 2020 | Paris, France
 
-*Subjects: Software Engineering, Databases, Probability, Statistics, Operations Research*
+Subjects: Software Engineering, Databases, Probability, Statistics, Operations Research
 
-## Mechatronics Engineering (1-year academic exchange) 
-#### ENSIAME - INSA Hauts-de-France 
+### ENSIAME - INSA Hauts-de-France
+#### Mechatronics Engineering (1-year academic exchange) 
 #### 2015 – 2016 | Valenciennes, France
 
-*1-year scholarship for an international academic exchange programme*
+1-year scholarship for an international academic exchange programme
 
-## Mechatronics Engineering (5-year degree) 
-#### University of São Paulo (USP)
+### University of São Paulo (USP)
+#### Mechatronics Engineering (5-year degree) 
 #### 2013 – 2015, 2016 – 2017 | São Carlos, Brazil
 
 ---
 
-Work experience
-======
+
+Research
+========
+
+### [The European Synchrotron Radiation Facility (ESRF)](https://www.esrf.fr/)
+### [MINES ParisTech](https://www.minesparis.psl.eu/) - [PSL University](https://psl.eu/en)
+#### Research Engineer 
+#### since Mar. 2021 | Grenoble, France / Paris, France
+
+Working on X-ray diffraction tomography (DCT) semantic segmentation.
+
+### [MINES ParisTech](https://www.minesparis.psl.eu/) - [PSL University](https://psl.eu/en)
+#### Research Intern
+#### 2020 – 2021 (6 mos.) | Paris, France
+
+Worked on semantic segmentation neural networks (2D and 3D U-Net)
+applied to X-ray tomography.
+
+Presented results at the [44th edition of the Journée ISS France](http://www.cmm.mines-paristech.fr/~figliuzzi/iss.html).
+
+Lectured about U-Nets in a week-course ([CVML 2021]({https://bigmeca.minesparis.psl.eu/cvml-2021/)) at the PSL University.
+
+### Mindsay
+#### Research Intern 
+#### 2020 (5 mos.) | Paris, France
+
+Evaluated explainability methods (LIME, SHAP, Anchors) applied to
+layperson-maintained Natural Language Processing (NLP) classification
+models.
+
 
 * [MINES ParisTech](http://mines-paristech.fr/) – [PSL University](https://psl.eu/en)
   * Research Engineer, since March 2021
@@ -66,6 +94,11 @@ Work experience
   * Paris, France
   * Evaluated explainability methods applied to NLP text classification models maintained by non-experts.
   * Stack: Python, Streamlit, Lime (Ribeiro et al., 2016), Anchor (Ribeiro et al., 2018), SHAP (Lundberg et al., 2017).
+
+---
+
+Work experience
+======
 
 * [Datadog](https://www.datadoghq.com/), Data Scientist Intern
   * Feb. 2019 - Sep. 2019 (7 months)
