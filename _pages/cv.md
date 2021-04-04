@@ -104,6 +104,22 @@ Explored transactional data to predict churn risk with decision trees-based meth
 
 ---
 
+Projects
+======
+
+### tomo2seg
+#### :date: since Sep. 2020
+
+Developed an X-ray tomography (XCT) semantic segmentation tool using U-Nets.
+
+The [data](https://doi.org/10.5281/zenodo.4587827) and the [models](https://doi.org/10.5281/zenodo.4601560) are publicly available on Zenodo. A [tutorial](https://github.com/joaopcbertoldo/gfpa66-volumes) is available on GitHub (WIP).
+
+Applied it during an experiment at the [Soleil Synchrotron](https://www.synchrotron-soleil.fr/fr), France.
+
+:link: [Link to tomo2seg on Github](https://github.com/joaopcbertoldo/tomo2seg)
+
+---
+
 Skills/Languages
 ======
 * English: fluent
