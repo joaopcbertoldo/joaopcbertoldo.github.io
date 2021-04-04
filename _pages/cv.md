@@ -164,15 +164,37 @@ Elaborated and conducted workshops on numerical analysis using MATLAB.
 
 ---
 
-Skills/Languages
+Skills
 ======
-* English: fluent
-  * worked in English speaking companies for 1 year
-  * TOEFL 117/120 (2020)
-* French: fluent
-  * read subjects in French for 3 years
-  * worked in French organizations for 1 year
-* Portuguese: native
+
+### Languages
+
+#### English: fluent
+
+Obtained TOEFL 117/120 (2020) and worked in English-speaking companies for more than 1 year.
+
+#### French: fluent
+
+Read subjects in French for 3 years and worked in French-organizations for 1 year.
+
+#### Portuguese: native
+
+#### Turkish: beginner
+
+### Programming
+
+#### Python: fluent
+
+*Data processing/viz.* Numpy, Scipy, Pandas, IPython, Matplotlib, Seaborn.
+
+*Machine/Deep learning* Keras, TensorFlow, Scikit-learn.
+
+*Prototyping* Streamlit, Jupyter Lab/Notebook.
+
+*Miscellaneous* Anaconda, Virtual Environments, nose, unittests.
+
+
+---
 
 Publications
 ======
