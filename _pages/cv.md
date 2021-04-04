@@ -25,7 +25,7 @@ Recommendation letters:
 Education
 ======
 
-### [Paris-Dauphine](https://dauphine.psl.eu/en/) – [PSL University](https://psl.eu/en)  MSc in Artificial Intelligence, Systems, Data ([IASD](https://www.lamsade.dauphine.fr/wp/iasd/en/))
+### [Paris-Dauphine](https://dauphine.psl.eu/en/) – [PSL University](https://psl.eu/en) <br/> MSc in Artificial Intelligence, Systems, Data ([IASD](https://www.lamsade.dauphine.fr/wp/iasd/en/))
 #### 2019-202 | Paris, France
 
 Subjects: Machine Learning, Deep Learning, Optimization, Image Analysis
@@ -35,31 +35,25 @@ Subjects: Machine Learning, Deep Learning, Optimization, Image Analysis
 
 Subjects: Software Engineering, Databases, Probability, Statistics, Operations Research
 
-### ENSIAME - INSA Hauts-de-France
-#### Mechatronics Engineering (1-year academic exchange) 
+### ENSIAME - INSA Hauts-de-France <br/> Mechatronics Engineering (1-year academic exchange) 
 #### 2015 – 2016 | Valenciennes, France
 
 1-year scholarship for an international academic exchange programme
 
-### University of São Paulo (USP)
-#### Mechatronics Engineering (5-year degree) 
+### University of São Paulo (USP) <br/> Mechatronics Engineering (5-year degree) 
 #### 2013 – 2015, 2016 – 2017 | São Carlos, Brazil
 
 ---
 
-
 Research
 ========
 
-### [The European Synchrotron Radiation Facility (ESRF)](https://www.esrf.fr/)
-### [MINES ParisTech](https://www.minesparis.psl.eu/) - [PSL University](https://psl.eu/en)
-#### Research Engineer 
+### [The European Synchrotron Radiation Facility (ESRF)](https://www.esrf.fr/) | [MINES ParisTech](https://www.minesparis.psl.eu/) - [PSL University](https://psl.eu/en) <br/> Research Engineer 
 #### since Mar. 2021 | Grenoble, France / Paris, France
 
 Working on X-ray diffraction tomography (DCT) semantic segmentation.
 
-### [MINES ParisTech](https://www.minesparis.psl.eu/) - [PSL University](https://psl.eu/en)
-#### Research Intern
+### [MINES ParisTech](https://www.minesparis.psl.eu/) - [PSL University](https://psl.eu/en) <br/> Research Intern
 #### 2020 – 2021 (6 mos.) | Paris, France
 
 Worked on semantic segmentation neural networks (2D and 3D U-Net)
@@ -69,8 +63,7 @@ Presented results at the [44th edition of the Journée ISS France](http://www.cm
 
 Lectured about U-Nets in a week-course ([CVML 2021]({https://bigmeca.minesparis.psl.eu/cvml-2021/)) at the PSL University.
 
-### Mindsay
-#### Research Intern 
+### Mindsay <br/> Research Intern 
 #### 2020 (5 mos.) | Paris, France
 
 Evaluated explainability methods (LIME, SHAP, Anchors) applied to
