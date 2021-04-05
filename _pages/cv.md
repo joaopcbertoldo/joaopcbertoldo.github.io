@@ -190,6 +190,25 @@ Read subjects in French for 3 years and worked in French-organizations for 1 yea
 * ***Prototyping***: Streamlit, Jupyter Lab/Notebook.
 * ***Miscellaneous***: Anaconda, Virtual Environments, nose, unittests.
 
+### Other programming languages
+
+MATLAB, JavaScript (React, Redux), C/C++ (basics), Java (basics).
+
+### Databases
+
+PostgresSQL, MongoDB, InfluxDB.
+
+## Computer skills (others)
+
+* ***IDEs***: Pycharm, Visual Studio Code (VSCode).
+* ***Miscellaneous***: Git, GitHub/GitLab, Linux, Bash/Zsh, SSH, Markdown, Weka.
+* ***Tomography***: ImageJ (Fiji), Avizo.
+
+## Content creation/management
+
+* ***LaTeX***: Fluent. Wrote \mindsayreportlink{Master's internship report} in LaTeX.
+* ***Google Suite (Docs, Slides, Sheets)***: Fluent. Wrote \mindsaysoutenancelink{Master's defense} presentation with Google Slides.
+* ***Zotero***: Extensively using for more than 1 year.
 ---
 
 Publications
@@ -198,24 +217,26 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+---
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
+---
+
 Interests
 ======
+
 * Travel & international environments - have been in 18 countries.
 * [Skydive](https://aspu.org/)
 * Podcasts (especially about politics)
 * Youtube channels: 
   * [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
-  * [Vox](https://www.youtube.com/channel/UCLXo7UDZvByw2ixzpQCufnA)
-  * [VICE](https://www.youtube.com/channel/UCZaT_X_mc0BI-djXOlfhqWQ)
-  * [WIRED](https://www.youtube.com/channel/UCftwRNsjfRo08xYE31tkiyw)
   * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+  * [Vox](https://www.youtube.com/channel/UCLXo7UDZvByw2ixzpQCufnA)
   * [The Economist](https://www.youtube.com/channel/UC0p5jTq6Xx_DosDFxVXnWaQ)
   * [Porta dos Fundos](https://www.youtube.com/channel/UCEWHPFNilsT0IfQfutVzsag)
   * [Choque de Cultura](https://www.youtube.com/watch?v=4u1w1UnqI0Y&list=PLA2Gd9vTv5MWbT1N-RVoTO7MHkfjKkYVV&ab_channel=TVQuase)
-  * [Barbixas](https://www.youtube.com/channel/UCZbgt7KIEF_755Xm14JpkCQ)
