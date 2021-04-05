@@ -27,25 +27,25 @@ Education
 
 ### [Paris-Dauphine](https://dauphine.psl.eu/en/) – [PSL University](https://psl.eu/en) <br/> MSc in Artificial Intelligence, Systems, Data ([IASD](https://www.lamsade.dauphine.fr/wp/iasd/en/))
 
-#### 📅 2019-202 📍 Paris, France
+#### 📅 2019-202 📍 Paris, France 🇫🇷
 
 Subjects: Machine Learning, Deep Learning, Optimization, Image Analysis
 
 ### [MINES ParisTech](https://www.minesparis.psl.eu/) - [PSL University](https://psl.eu/en) <br/> MS in Executive Engineering | Minor: Data Science 
 
-#### 📅 2017 – 2020 📍 Paris, France
+#### 📅 2017 – 2020 📍 Paris, France 🇫🇷
 
 Subjects: Software Engineering, Databases, Probability, Statistics, Operations Research
 
 ### [ENSIAME - INSA Hauts-de-France](https://www.uphf.fr/ensiame/presentation-ensiame) <br/> Mechatronics Engineering (1-year academic exchange) 
 
-#### 📅 2015 – 2016 📍 Valenciennes, France
+#### 📅 2015 – 2016 📍 Valenciennes, France 🇫🇷
 
 1-year scholarship for an international academic exchange programme
 
 ### [University of São Paulo (USP)](https://www5.usp.br/) <br/> Mechatronics Engineering (5-year degree) 
 
-#### 📅 2013 – 2015, 2016 – 2017 📍 São Carlos, Brazil
+#### 📅 2013 – 2015, 2016 – 2017 📍 São Carlos, Brazil 🇧🇷
 
 ---
 
@@ -54,12 +54,12 @@ Research
 
 ### [The European Synchrotron Radiation Facility (ESRF)](https://www.esrf.fr/) <br/> [MINES ParisTech](https://www.minesparis.psl.eu/) - [PSL University](https://psl.eu/en) <br/> Research Engineer 
 
-#### 📅 since Mar. 2021 | 📍 Grenoble, France / Paris, France
+#### 📅 since Mar. 2021 | 📍 Grenoble, France / Paris, France 🇫🇷
 
 Working on X-ray diffraction tomography (DCT) semantic segmentation.
 
 ### [MINES ParisTech](https://www.minesparis.psl.eu/) - [PSL University](https://psl.eu/en) <br/> Research Intern
-#### 📅 2020 – 2021 (6 mos.) | 📍 Paris, France
+#### 📅 2020 – 2021 (6 mos.) | 📍 Paris, France 🇫🇷
 
 Worked on semantic segmentation neural networks (2D and 3D U-Net)
 applied to X-ray tomography.
@@ -69,7 +69,7 @@ Presented results at the [44th edition of the Journée ISS France](http://www.cm
 Lectured about U-Nets in a week-course ([CVML 2021]({https://bigmeca.minesparis.psl.eu/cvml-2021/)) at the PSL University.
 
 ### [Mindsay](https://www.mindsay.com/) <br/> Research Intern 
-#### 📅 2020 (5 mos.) | 📍 Paris, France
+#### 📅 2020 (5 mos.) | 📍 Paris, France 🇫🇷
 
 Evaluated explainability methods -- LIME (Ribeiro et al., 2016), SHAP (Ribeiro et al., 2018), Anchors (Lundberg et al., 2017) -- applied to layperson-maintained Natural Language Processing (NLP) classification models.
 
@@ -79,19 +79,19 @@ Work experience
 ======
 
 ### [Datadog](https://www.datadoghq.com/) <br/> Data Scientist Intern
-#### 📅 2019 (7 mos.) | 📍 New York, USA
+#### 📅 2019 (7 mos.) | 📍 New York, USA 🇺🇸
 
 Developed algorithms for time series and tag analysis, and contributed to a knowledge graph project.
 
 Maintained high-impact production Python codebase and optimized an automated test pipeline.
 
 ### [Kelda Drilling Controls](https://www.kelda.no/) <br/> Software Engineer Intern
-#### 📅 2018 -- 2019 (8 mos.) | 📍 Porsgrunn, Norway
+#### 📅 2018 -- 2019 (8 mos.) | 📍 Porsgrunn, Norway 🇳🇴
 
 Designed a web application for time series supervised annotation.
 
 ### [Stone Co.](https://www.stone.co/) <br/> Backend Developer / Data Scientist Intern
-#### 📅 2017 -- 2018 (3 mos. / 2 mos.) | 📍 Rio de Janeiro, Brazil
+#### 📅 2017 -- 2018 (3 mos. / 2 mos.) | 📍 Rio de Janeiro, Brazil 🇧🇷
 
 Developed a .NET web Rest API for a MongoDB and lectured about Design Patterns.
 
@@ -158,7 +158,7 @@ Teaching
 ======
 
 ### [University of São Paulo (USP)](https://www5.usp.br/) <br/> Teaching assistant (part-time)
-#### 📅 2015 (6 mos.) | 📍 São Carlos, Brazil
+#### 📅 2015 (6 mos.) | 📍 São Carlos, Brazil 🇧🇷
 
 Elaborated and conducted workshops on numerical analysis using MATLAB.
 
@@ -169,21 +169,21 @@ Skills
 
 ## Languages
 
-### English: fluent
+### 🇺🇸 English: fluent
 
 Obtained TOEFL 117/120 (2020) and worked in English-speaking companies for more than 1 year.
 
-### French: fluent
+### 🇫🇷 French: fluent
 
 Read subjects in French for 3 years and worked in French-organizations for 1 year.
 
-### Portuguese: native
+### 🇧🇷 Portuguese: native
 
-### Turkish: beginner
+### 🇹🇷 Turkish: beginner
 
 ## Programming
 
-### Python: fluent
+### 🐍 Python: fluent
 
 * ***Data processing/viz.***: Numpy, Scipy, Pandas, IPython, Matplotlib, Seaborn.
 * ***Machine/Deep learning***: Keras, TensorFlow, Scikit-learn.
@@ -209,6 +209,7 @@ PostgresSQL, MongoDB, InfluxDB.
 * ***LaTeX***: Fluent. Wrote [Master's internship report](https://joaopcbertoldo.github.io/files/mindsay.report.pdf) in LaTeX.
 * ***Google Suite (Docs, Slides, Sheets)***: Fluent. Wrote [Master's defense](https://joaopcbertoldo.github.io/files/mindsay.soutenance.pdf) presentation with Google Slides.
 * ***Zotero***: Extensively using for more than 1 year.
+
 ---
 
 Publications
@@ -230,7 +231,7 @@ Talks
 Interests
 ======
 
-* Travel & international environments - have been in 18 countries.
+* Travel & international environments - have been in 18 countries
 * [Skydive](https://aspu.org/)
 * Podcasts (especially about politics)
 * Youtube channels: 
