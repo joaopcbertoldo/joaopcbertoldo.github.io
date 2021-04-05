@@ -209,6 +209,7 @@ PostgresSQL, MongoDB, InfluxDB.
 * ***LaTeX***: Fluent. Wrote \mindsayreportlink{Master's internship report} in LaTeX.
 * ***Google Suite (Docs, Slides, Sheets)***: Fluent. Wrote \mindsaysoutenancelink{Master's defense} presentation with Google Slides.
 * ***Zotero***: Extensively using for more than 1 year.
+
 ---
 
 Publications
