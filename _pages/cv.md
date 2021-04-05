@@ -185,13 +185,13 @@ Read subjects in French for 3 years and worked in French-organizations for 1 yea
 
 ### Python: fluent
 
-*Data processing/viz.* Numpy, Scipy, Pandas, IPython, Matplotlib, Seaborn.
+**Data processing/viz.** Numpy, Scipy, Pandas, IPython, Matplotlib, Seaborn.
 
-*Machine/Deep learning* Keras, TensorFlow, Scikit-learn.
+**Machine/Deep learning** Keras, TensorFlow, Scikit-learn.
 
-*Prototyping* Streamlit, Jupyter Lab/Notebook.
+**Prototyping** Streamlit, Jupyter Lab/Notebook.
 
-*Miscellaneous* Anaconda, Virtual Environments, nose, unittests.
+***Miscellaneous*** Anaconda, Virtual Environments, nose, unittests.
 
 
 ---
