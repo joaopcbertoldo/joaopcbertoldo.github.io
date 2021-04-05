@@ -167,23 +167,23 @@ Elaborated and conducted workshops on numerical analysis using MATLAB.
 Skills
 ======
 
-### Languages
+## Languages
 
-#### English: fluent
+### English: fluent
 
 Obtained TOEFL 117/120 (2020) and worked in English-speaking companies for more than 1 year.
 
-#### French: fluent
+### French: fluent
 
 Read subjects in French for 3 years and worked in French-organizations for 1 year.
 
-#### Portuguese: native
+### Portuguese: native
 
-#### Turkish: beginner
+### Turkish: beginner
 
-### Programming
+## Programming
 
-#### Python: fluent
+### Python: fluent
 
 *Data processing/viz.* Numpy, Scipy, Pandas, IPython, Matplotlib, Seaborn.
 
